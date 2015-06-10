@@ -1,0 +1,22 @@
+{
+  "name": "git-webhook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "router.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nickjanssen/git-webhook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickjanssen/git-webhook/issues"
+  },
+  "homepage": "https://github.com/nickjanssen/git-webhook",
+  "dependencies": {
+    "github-webhook-handler": "^0.4.0"
+  }
+}

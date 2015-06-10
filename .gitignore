@@ -1,0 +1,4 @@
+node_modules
+hooks/*
+!hooks/.file
+config.json
